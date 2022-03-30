@@ -1,0 +1,117 @@
+<tr>
+ <td>
+  <span class="sc-80eeb0-1 iuAjRY">
+   <span class="icon-Star">
+   </span>
+  </span>
+ </td>
+ <td style="text-align:left">
+  <p class="sc-1eb5slv-0 etpvrL" color="text2" font-size="0">
+   2
+  </p>
+ </td>
+ <td style="text-align:left">
+  <div class="sc-16r8icm-0 escjiH" display="flex">
+   <a class="cmc-link" href="/currencies/ethereum/">
+    <div class="sc-16r8icm-0 sc-1teo54s-0 dBKWCw">
+     <img alt="ETH logo" class="coin-logo" loading="lazy" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"/>
+     <div class="sc-16r8icm-0 sc-1teo54s-1 dNOTPP">
+      <p class="sc-1eb5slv-0 iworPT" color="text" font-size="1" font-weight="semibold">
+       Ethereum
+      </p>
+      <div class="sc-1teo54s-2 fZIJcI" data-nosnippet="true">
+       <div class="sc-1teo54s-3 etWhyV">
+        2
+       </div>
+       <p class="sc-1eb5slv-0 gGIpIK coin-item-symbol" color="text3" font-size="1">
+        ETH
+       </p>
+      </div>
+     </div>
+    </div>
+   </a>
+   <div class="sc-16r8icm-0 bKmQGi">
+    <div data-nosnippet="true">
+     <div class="sc-1x3bens-0 hRpznX">
+      <button class="x0o17e-0 kPvqGV" style="white-space:nowrap;background:var(--theme-light-blue);color:var(--theme-light-blue-font)">
+       Buy
+      </button>
+     </div>
+    </div>
+   </div>
+  </div>
+ </td>
+ <td>
+  <div class="sc-131di3y-0 cLgOOr">
+   <a class="cmc-link" href="/currencies/ethereum/markets/">
+    <span>
+     $2,755.48
+    </span>
+   </a>
+  </div>
+ </td>
+ <td style="text-align:right">
+  <span class="sc-15yy2pl-0 kAXKAX">
+   <span class="icon-Caret-up">
+   </span>
+   6.83
+   <!-- -->
+   %
+  </span>
+ </td>
+ <td style="text-align:right">
+  <span class="sc-15yy2pl-0 hzgCfk">
+   <span class="icon-Caret-down">
+   </span>
+   1.07
+   <!-- -->
+   %
+  </span>
+ </td>
+ <td style="text-align:right">
+  <p class="sc-1eb5slv-0 hykWbK" color="text" font-size="1" style="white-space:nowrap">
+   <span class="sc-1ow4cwt-0 iosgXe">
+    $329.93B
+   </span>
+   <span class="sc-1ow4cwt-1 ieFnWP" data-nosnippet="true">
+    $329,932,513,441
+   </span>
+  </p>
+ </td>
+ <td style="text-align:right">
+  <div class="sc-16r8icm-0 j3nwcd-0 cRcnjD">
+   <a class="cmc-link" href="/currencies/ethereum/markets/">
+    <p class="sc-1eb5slv-0 hykWbK font_weight_500" color="text" font-size="1">
+     $16,902,376,681
+    </p>
+   </a>
+   <div data-nosnippet="true">
+    <p class="sc-1eb5slv-0 etpvrL" color="text2" font-size="0">
+     6,134,098 ETH
+    </p>
+   </div>
+  </div>
+ </td>
+ <td style="text-align:right">
+  <div class="sc-16r8icm-0 g5oqcc-0 drLITg" style="cursor:">
+   <div class="sc-16r8icm-0 g5oqcc-1 eGQXzN">
+    <p class="sc-1eb5slv-0 kZlTnE" color="text" font-size="1" font-weight="medium">
+     119,736,904 ETH
+    </p>
+   </div>
+  </div>
+ </td>
+ <td style="text-align:right">
+  <a class="cmc-link" href="/currencies/ethereum/?period=7d">
+   <img alt="ethereum-7d-price-graph" class="h7vnx2-0 bCltOL" loading="lazy" src="https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1027.svg"/>
+  </a>
+ </td>
+ <td>
+  <div class="sc-16r8icm-0 kjciSH">
+   <button class="x0o17e-0 ftvUnY sc-7pvt85-0 hmFKKb">
+    <span class="icon-More-Vertical">
+    </span>
+   </button>
+  </div>
+ </td>
+</tr>
